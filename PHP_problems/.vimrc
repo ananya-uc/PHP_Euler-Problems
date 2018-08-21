@@ -1,3 +1,0 @@
-set paste
-
-set autoindent
